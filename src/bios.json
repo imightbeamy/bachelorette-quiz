@@ -1,187 +1,205 @@
 {
-  "Adam": {
-    "name": "Adam",
-    "height": "6'2\"",
-    "occupation": "Real Estate Agent",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018819/2d3df2482b8912beaeb8a215200831c8/320x180-Q90_2d3df2482b8912beaeb8a215200831c8.jpg"
+  "Ali": {
+    "name": "Ali",
+    "height": "5'4\"",
+    "occupation": "Personal Stylist",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099203/43ec7f0d4aae7e99e0225240baa24cae/320x180-Q90_43ec7f0d4aae7e99e0225240baa24cae.jpg",
+    "questions": 6
   },
-  "Alex": {
-    "name": "Alex",
-    "height": "6'2\"",
-    "occupation": "Information Systems Supervisor",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018833/82d4e555dad57f61168c92e61f9d977d/320x180-Q90_82d4e555dad57f61168c92e61f9d977d.jpg"
-  },
-  "Anthony": {
-    "name": "Anthony",
-    "height": "6'3\"",
-    "occupation": "Education Software Manager",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018823/feb7431781e49ebad3462e884f4a079b/320x180-Q90_feb7431781e49ebad3462e884f4a079b.jpg"
-  },
-  "Blake E.": {
-    "name": "Blake E.",
-    "height": "6'",
-    "occupation": "Aspiring Drummer",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018840/5462da67c4079973a4b4a93691b92923/320x180-Q90_5462da67c4079973a4b4a93691b92923.jpg"
-  },
-  "Blake K.": {
-    "name": "Blake K.",
-    "height": "6'",
-    "occupation": "U.S. Marine Veteran",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018845/f889ad3fd2881e71bed75f16c4469d84/320x180-Q90_f889ad3fd2881e71bed75f16c4469d84.jpg"
-  },
-  "Brady": {
-    "name": "Brady",
-    "height": "6'2\"",
-    "occupation": "Male Model",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018850/f5873b9999e27b9262261c801bcc03d6/320x180-Q90_f5873b9999e27b9262261c801bcc03d6.jpg"
-  },
-  "Bryan": {
-    "name": "Bryan",
-    "height": "6'2\"",
-    "occupation": "Chiropractor",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018852/459fdcaa7a418f9b6ca896ae7fdd625e/320x180-Q90_459fdcaa7a418f9b6ca896ae7fdd625e.jpg"
-  },
-  "Bryce": {
-    "name": "Bryce",
-    "height": "6'2\"",
-    "occupation": "Firefighter",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018853/3ee13c012db72a0726cd79a74dc4e584/320x180-Q90_3ee13c012db72a0726cd79a74dc4e584.jpg"
-  },
-  "Dean": {
-    "name": "Dean",
-    "height": "6'2\"",
-    "occupation": "Startup Recruiter",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018838/360b45cf67863b6941d2d6a4155b5ecc/320x180-Q90_360b45cf67863b6941d2d6a4155b5ecc.jpg"
-  },
-  "DeMario": {
-    "name": "DeMario",
-    "height": "6'4\"",
-    "occupation": "Executive Recruiter",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018841/edfd949ef21f3f81280e9c85ab171bc2/320x180-Q90_edfd949ef21f3f81280e9c85ab171bc2.jpg"
-  },
-  "Diggy": {
-    "name": "Diggy",
-    "height": "5'11\"",
-    "occupation": "Senior Inventory Analyst",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018826/630818299522a17d1189020aef877993/320x180-Q90_630818299522a17d1189020aef877993.jpg"
-  },
-  "Eric": {
-    "name": "Eric",
-    "height": "6'2\"",
-    "occupation": "Personal Trainer",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018844/9aee842061c5bb3c786ca559764afafd/320x180-Q90_9aee842061c5bb3c786ca559764afafd.jpg"
-  },
-  "Fred": {
-    "name": "Fred",
-    "height": "6'",
-    "occupation": "Executive Assistant",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018848/b4450231a4bfe0656e5e18102140ef63/320x180-Q90_b4450231a4bfe0656e5e18102140ef63.jpg"
-  },
-  "Grant": {
-    "name": "Grant",
-    "height": "5'11\"",
-    "occupation": "Emergency Medicine Physician",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018851/2db33643e98e3fe91f0807f176a14d08/320x180-Q90_2db33643e98e3fe91f0807f176a14d08.jpg"
-  },
-  "Iggy": {
-    "name": "Iggy",
-    "height": "5'11\"",
-    "occupation": "Consulting Firm CEO",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018854/9d2888ae9321ef260b1d197927ebd6a6/320x180-Q90_9d2888ae9321ef260b1d197927ebd6a6.jpg"
-  },
-  "Jack Stone": {
-    "name": "Jack Stone",
-    "height": "5'11\"",
-    "occupation": "Attorney",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018855/699783bad03d864754309392d47a7238/320x180-Q90_699783bad03d864754309392d47a7238.jpg"
-  },
-  "Jamey": {
-    "name": "Jamey",
-    "height": "5'9\"",
-    "occupation": "Sales Account Executive",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018832/e7d7bcde57f7645a3889dbf213f6193b/320x180-Q90_e7d7bcde57f7645a3889dbf213f6193b.jpg"
-  },
-  "Jedidiah": {
-    "name": "Jedidiah",
-    "occupation": "ER Physician",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018856/463f77d840b8c73c8575a3aacbf196d1/320x180-Q90_463f77d840b8c73c8575a3aacbf196d1.jpg"
-  },
-  "Jonathan": {
-    "name": "Jonathan",
-    "height": "6'2\"",
-    "occupation": "Tickle Monster",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018821/9b218b2aa8e23ed27c4e236bde3a4383/320x180-Q90_9b218b2aa8e23ed27c4e236bde3a4383.jpg"
-  },
-  "Josiah": {
-    "name": "Josiah",
-    "height": "6'3\"",
-    "occupation": "Prosecuting Attorney",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018822/b5f265d97f5209e1da058943577287ad/320x180-Q90_b5f265d97f5209e1da058943577287ad.jpg"
-  },
-  "Kenny": {
-    "name": "Kenny",
-    "height": "6'",
-    "occupation": "Professional Wrestler",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018830/c2a59ca6d7f3d2909921189dd6bbaa59/320x180-Q90_c2a59ca6d7f3d2909921189dd6bbaa59.jpg"
-  },
-  "Kyle": {
-    "name": "Kyle",
-    "height": "5'11\"",
-    "occupation": "Marketing Consultant",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018820/34530ce89a895e6b815adde5b5896e4e/320x180-Q90_34530ce89a895e6b815adde5b5896e4e.jpg"
-  },
-  "Lee": {
-    "name": "Lee",
-    "height": "5'11\"",
-    "occupation": "Singer/Songwriter",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018824/768b8824f0d1959524af54fbd885b67d/320x180-Q90_768b8824f0d1959524af54fbd885b67d.jpg"
-  },
-  "Lucas": {
-    "name": "Lucas",
-    "height": "6'",
-    "occupation": "Whaboom",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018825/edc09b16c4bfb15dfd9346586ac5c668/320x180-Q90_edc09b16c4bfb15dfd9346586ac5c668.jpg"
-  },
-  "Matt": {
-    "name": "Matt",
-    "height": "6'3\"",
-    "occupation": "Construction Sales Rep",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018828/68deff5d0920598448bbb09f27aca8ff/320x180-Q90_68deff5d0920598448bbb09f27aca8ff.jpg"
-  },
-  "Michael": {
-    "name": "Michael",
-    "height": "6'",
-    "occupation": "Former Professional Basketball Player",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018831/9cf0e83a8e0dafb00855fe48aa69741a/320x180-Q90_9cf0e83a8e0dafb00855fe48aa69741a.jpg"
-  },
-  "Milton": {
-    "name": "Milton",
-    "height": "6'5\"",
-    "occupation": "Hotel Recreation Supervisor",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018834/babe23362cd5c0abd19cbd4ab8d23efc/320x180-Q90_babe23362cd5c0abd19cbd4ab8d23efc.jpg"
-  },
-  "Mohit": {
-    "name": "Mohit",
-    "height": "6'",
-    "occupation": "Product Manager",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018835/0282f1a4899efb93715b8530f6ac636f/320x180-Q90_0282f1a4899efb93715b8530f6ac636f.jpg"
-  },
-  "Peter": {
-    "name": "Peter",
-    "height": "6'3\"",
+  "Amber": {
+    "name": "Amber",
+    "height": "5'3\"",
     "occupation": "Business Owner",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018837/73c6805fbcf6c0454edfec7c67a1cee7/320x180-Q90_73c6805fbcf6c0454edfec7c67a1cee7.jpg"
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099226/266c4558e336a8a10c54b7fa9bf42146/320x180-Q90_266c4558e336a8a10c54b7fa9bf42146.jpg",
+    "questions": 7
   },
-  "Rob": {
-    "name": "Rob",
-    "height": "6'2\"",
-    "occupation": "Law Student",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018839/a87daa5de4df58b6e5e4d4fad255b0ff/320x180-Q90_a87daa5de4df58b6e5e4d4fad255b0ff.jpg"
+  "Annaliese": {
+    "name": "Annaliese",
+    "height": "5'6\"",
+    "occupation": "Event Designer",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099227/4ad700db75481b5122cb738de7d01149/320x180-Q90_4ad700db75481b5122cb738de7d01149.jpg",
+    "questions": 4
   },
-  "Will": {
-    "name": "Will",
-    "height": "6'3\"",
-    "occupation": "Sales Manager",
-    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelorette/person/2018842/0b5ec734a6343502be55381b8811d4b0/320x180-Q90_0b5ec734a6343502be55381b8811d4b0.jpg"
+  "Ashley": {
+    "name": "Ashley",
+    "height": "5'7\"",
+    "occupation": "Real Estate Agent",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099231/ee79b74ee4a8ec03ef8de8859ab3c9bf/320x180-Q90_ee79b74ee4a8ec03ef8de8859ab3c9bf.jpg",
+    "questions": 6
+  },
+  "Becca K.": {
+    "name": "Becca K.",
+    "height": "5'7\"",
+    "occupation": "Publicist",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099232/52e131d4bdcb5e01737b5f590dcf1061/320x180-Q90_52e131d4bdcb5e01737b5f590dcf1061.jpg",
+    "questions": 6
+  },
+  "Bekah M.": {
+    "name": "Bekah M.",
+    "height": "5'5\"",
+    "occupation": "Nanny",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099243/8ec867a9772778a7ab30faf1c1610a11/320x180-Q90_8ec867a9772778a7ab30faf1c1610a11.jpg",
+    "questions": 6
+  },
+  "Bibiana": {
+    "name": "Bibiana",
+    "height": "5'4\"",
+    "occupation": "Executive Assistant",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099250/2904e4056673168318c6ab980fb46b5e/320x180-Q90_2904e4056673168318c6ab980fb46b5e.jpg",
+    "questions": 7
+  },
+  "Bri": {
+    "name": "Bri",
+    "height": "5'5\"",
+    "occupation": "Sports Reporter",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099251/d0bf7dcf70105026c59fa2e41429a6c3/320x180-Q90_d0bf7dcf70105026c59fa2e41429a6c3.jpg",
+    "questions": 5
+  },
+  "Brittane J.": {
+    "name": "Brittane J.",
+    "height": "5'3\"",
+    "occupation": "Marketing Manager",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099252/98cda649fa85918a5af62b64393ab499/320x180-Q90_98cda649fa85918a5af62b64393ab499.jpg",
+    "questions": 7
+  },
+  "Brittany T.": {
+    "name": "Brittany T.",
+    "height": "5'5\"",
+    "occupation": "Tech Recruiter",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099253/a7900b50c67f491fb64ff0a03b881fff/320x180-Q90_a7900b50c67f491fb64ff0a03b881fff.jpg",
+    "questions": 5
+  },
+  "Caroline": {
+    "name": "Caroline",
+    "height": "5'10\"",
+    "occupation": "Realtor",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099261/e8197f3c42b433ed5894127c6f41e4ef/320x180-Q90_e8197f3c42b433ed5894127c6f41e4ef.jpg",
+    "questions": 7
+  },
+  "Chelsea": {
+    "name": "Chelsea",
+    "height": "5'6\"",
+    "occupation": "Real Estate Exec. Assistant",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099264/e5a9de3693c8599404bc0f8b88eebba0/320x180-Q90_e5a9de3693c8599404bc0f8b88eebba0.jpg",
+    "questions": 5
+  },
+  "Jacqueline": {
+    "name": "Jacqueline",
+    "height": "5'5\"",
+    "occupation": "Research Coordinator",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099267/a59f113ccd84ca1e5728f86d28b9c562/320x180-Q90_a59f113ccd84ca1e5728f86d28b9c562.jpg",
+    "questions": 6
+  },
+  "Jenna": {
+    "name": "Jenna",
+    "height": "5'5\"",
+    "occupation": "Social Media Manager",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099275/60cf2f83cae05b5d7446fa48b154e5f9/320x180-Q90_60cf2f83cae05b5d7446fa48b154e5f9.jpg",
+    "questions": 6
+  },
+  "Jenny": {
+    "name": "Jenny",
+    "height": "5'4\"",
+    "occupation": "Graphic Designer",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099281/5722853dd169344577aaea271a69954f/320x180-Q90_5722853dd169344577aaea271a69954f.jpg",
+    "questions": 6
+  },
+  "Jessica": {
+    "name": "Jessica",
+    "height": "5'5\"",
+    "occupation": "Television Host",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099292/566bcff5d604130f4465963fbd551cce/320x180-Q90_566bcff5d604130f4465963fbd551cce.jpg",
+    "questions": 7
+  },
+  "Kendall": {
+    "name": "Kendall",
+    "height": "5'6\"",
+    "occupation": "Creative Director",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099282/b7eea5690824b36d0e6833c5e5eca24b/320x180-Q90_b7eea5690824b36d0e6833c5e5eca24b.jpg",
+    "questions": 7
+  },
+  "Krystal": {
+    "name": "Krystal",
+    "height": "5'7\"",
+    "occupation": "Fitness Coach",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099280/268ddc188d79fea0d827cd9cac2968fa/320x180-Q90_268ddc188d79fea0d827cd9cac2968fa.jpg",
+    "questions": 7
+  },
+  "Lauren B.": {
+    "name": "Lauren B.",
+    "height": "5'5\"",
+    "occupation": "Tech Salesperson",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099279/dda0dfa938affba789789460c4de4269/320x180-Q90_dda0dfa938affba789789460c4de4269.jpg",
+    "questions": 6
+  },
+  "Lauren G.": {
+    "name": "Lauren G.",
+    "height": "5'3\"",
+    "occupation": "Executive Recruiter",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099278/51bb1493b16046e1a0276bce0cc7cfdf/320x180-Q90_51bb1493b16046e1a0276bce0cc7cfdf.jpg",
+    "questions": 7
+  },
+  "Lauren J.": {
+    "name": "Lauren J.",
+    "height": "5'8\"",
+    "occupation": "Recent Masters Graduate",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099277/3a70ca4f36063aff60acde33cc926751/320x180-Q90_3a70ca4f36063aff60acde33cc926751.jpg",
+    "questions": 7
+  },
+  "Lauren S.": {
+    "name": "Lauren S.",
+    "height": "5'7\"",
+    "occupation": "Social Media Manager",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099276/a0c25f8f00a25bd5322c50d504ec5822/320x180-Q90_a0c25f8f00a25bd5322c50d504ec5822.jpg",
+    "questions": 7
+  },
+  "Maquel": {
+    "name": "Maquel",
+    "height": "5'3\"",
+    "occupation": "Photographer",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099274/190e357c13da028142a112470c6ab099/320x180-Q90_190e357c13da028142a112470c6ab099.jpg",
+    "questions": 6
+  },
+  "Marikh": {
+    "name": "Marikh",
+    "height": "5'6\"",
+    "occupation": "Restaurant Owner",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099273/9a1ff9fe01b6e5c3e9f626d558347f46/320x180-Q90_9a1ff9fe01b6e5c3e9f626d558347f46.jpg",
+    "questions": 7
+  },
+  "Nysha": {
+    "name": "Nysha",
+    "height": "5'4\"",
+    "occupation": "Orthopedic Nurse",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099272/a67955a811691451341223a6071ecde5/320x180-Q90_a67955a811691451341223a6071ecde5.jpg",
+    "questions": 6
+  },
+  "Olivia": {
+    "name": "Olivia",
+    "height": "5'4\"",
+    "occupation": "Marketing Associate",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099271/edc5d52fddb57a3b76f5cd4385148c85/320x180-Q90_edc5d52fddb57a3b76f5cd4385148c85.jpg",
+    "questions": 6
+  },
+  "Seinne": {
+    "name": "Seinne",
+    "height": "5'4\"",
+    "occupation": "Commercial Real Estate Manager",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099270/a8b1ec3dd4772886eb3c1179d2aa130a/320x180-Q90_a8b1ec3dd4772886eb3c1179d2aa130a.jpg",
+    "questions": 7
+  },
+  "Tia": {
+    "name": "Tia",
+    "height": "5'6\"",
+    "occupation": "Physical Therapist",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099269/18164390b11fefacede7b157df9925e2/320x180-Q90_18164390b11fefacede7b157df9925e2.jpg",
+    "questions": 7
+  },
+  "Valerie": {
+    "name": "Valerie",
+    "height": "5'11\"",
+    "occupation": "Server",
+    "headshot": "https://cdn1.edgedatg.com/aws/v2/abc/TheBachelor/person/2099268/af3f8cf803574abf61840f3339a59941/320x180-Q90_af3f8cf803574abf61840f3339a59941.jpg",
+    "questions": 7
   }
 }
