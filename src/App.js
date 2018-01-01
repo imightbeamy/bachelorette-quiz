@@ -9,13 +9,12 @@ const style = StyleSheet.create({
     padding: 10,
     maxWidth: 600,
     margin: 'auto',
-    fontFamily: '"Helvetica Neue",Helvetica,Arial,sans-serif',
     background: 'white',
     overflow: 'hidden',
   },
   link: {
     color: 'red',
-    hover: {
+    ':hover': {
       textDecoration: 'none'
     }
   },
@@ -180,6 +179,7 @@ class App extends Component {
                 </table>
               </div>]}
         </div>
+        <a className={css(style.link)} href="https://github.com/imightbeamy/bachelorette-quiz">Source</a>
       </div>
     );
   }
