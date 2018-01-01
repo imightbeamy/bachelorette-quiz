@@ -9,7 +9,7 @@
   },
   "homepage": "https://imightbeamy.github.io/bachelorette-quiz/",
   "devDependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.1.0",
     "react-scripts": "1.0.1"
   },
   "scripts": {
