@@ -11,6 +11,7 @@ const style = StyleSheet.create({
     margin: 'auto',
     fontFamily: '"Helvetica Neue",Helvetica,Arial,sans-serif',
     background: 'white',
+    overflow: 'hidden',
   },
   link: {
     color: 'red',
@@ -31,7 +32,6 @@ const style = StyleSheet.create({
   },
   startOver: {
     float: 'right',
-    marginBottom: 10,
   },
   bio: {
     textAlign: 'center',
