@@ -7,9 +7,44 @@ window.questions = questions;
 const style = StyleSheet.create({
   app: {
     padding: 10,
+    maxWidth: 600,
+    margin: 'auto',
+    fontFamily: '"Helvetica Neue",Helvetica,Arial,sans-serif',
+    background: 'white',
+  },
+  link: {
+    color: 'red',
+    hover: {
+      textDecoration: 'none'
+    }
   },
   answers: {
     listStyleType: 'none',
+  },
+  header: {
+    textAlign: 'center',
+    fontFamily: "'Courgette', cursive"
+  },
+  startOver: {
+    float: 'right',
+    marginBottom: 10,
+  },
+  bio: {
+    textAlign: 'center',
+  },
+  bioImage: {
+    borderRadius: '50%',
+    maxWidth: '100%',
+    padding: 10,
+    boxSizing: 'border-box',
+  },
+  scores: {
+    margin: 'auto',
+    border: '1px solid black',
+    minWidth: '50%',
+  },
+  scoreCells: {
+    padding: 10,
   },
   answer: {
     'padding': '1em',
@@ -102,7 +137,7 @@ class App extends Component {
     return (
       <div className="App" className={css(style.app)}>
           {current ?
-            [<h2>{current.question}</h2>,
+            [<h2 className={css(style.header)}>{current.question}</h2>,
             <ol className={css(style.answers)}>
               {current.answers.map((a, i) =>
                 <li
@@ -112,15 +147,31 @@ class App extends Component {
                 >{a.answer}</li>)
               }
             </ol>,
-            this.state.question !== 0 && <button onClick={() => this.resetState()}>Start Over</button>] :
-            [<h2>You are {this.getWinner()}!</h2>,
-            <div>
-              <img src={bios[this.getWinner()].headshot} />
-              <p>Height: {bios[this.getWinner()].height}</p>
-              <p>Occupation: {bios[this.getWinner()].occupation}</p>
+            this.state.question !== 0 && <button
+              className={css(style.startOver)}
+              onClick={() => this.resetState()}>Start Over</button>] :
+            [<h2 className={css(style.header)}>
+              You are <a className={css(style.link)} href={bios[this.getWinner()].link}>{this.getWinner()}</a>!
+              </h2>,
+            <div className={css(style.bio)} >
+              <a className={css(style.link)} href={bios[this.getWinner()].link}>
+                <img className={css(style.bioImage)} src={bios[this.getWinner()].headshot} />
+              </a>
+              <p>{bios[this.getWinner()].occupation}, {bios[this.getWinner()].height}</p>
               <button
                 onClick={() => this.resetState()}
               >Play again!</button>
+            </div>,
+            <div>
+              <h2 className={css(style.header)}>Scores</h2>
+              <table className={css(style.scores)}>
+                {this.getScores(this.state.scores).map(score => <tr>
+                  <td className={css(style.scoreCells)}>
+                    <a className={css(style.link)} href={bios[score.contestant].link}>{score.contestant}</a>
+                  </td>
+                  <td className={css(style.scoreCells)}>{score.score}</td>
+                </tr>)}
+              </table>
             </div>]}
       </div>
     );
